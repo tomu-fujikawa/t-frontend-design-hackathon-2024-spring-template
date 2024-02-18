@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/t-frontend-design-hackathon-2024-spring-template/static/css/main.109955ac.css",
+    "main.js": "/t-frontend-design-hackathon-2024-spring-template/static/js/main.0a471843.js",
+    "index.html": "/t-frontend-design-hackathon-2024-spring-template/index.html",
+    "main.109955ac.css.map": "/t-frontend-design-hackathon-2024-spring-template/static/css/main.109955ac.css.map",
+    "main.0a471843.js.map": "/t-frontend-design-hackathon-2024-spring-template/static/js/main.0a471843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109955ac.css",
+    "static/js/main.0a471843.js"
+  ]
+}
